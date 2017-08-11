@@ -18,4 +18,6 @@ Llegado este punto, podemos editar directamente el archivo smb.conf o crear un n
 sudo touch /etc/samba/smb.conf
 ```
 
-A partir de acá iremos modificando este único archivo de configuración. 
+A partir de acá iremos modificando este único archivo de configuración.
+
+¡¡todo va ir mejor tenga Fe!!
